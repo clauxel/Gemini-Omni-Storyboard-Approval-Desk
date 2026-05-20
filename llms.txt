@@ -1,0 +1,11 @@
+# Gemini Omni Storyboard Approval Desk
+
+Gemini Omni Storyboard Approval Desk is a SaaS workspace for Gemini Omni storyboard approval workflow.
+
+Website: https://geminiomniapproval.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Gemini Omni storyboard approval workflow
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
